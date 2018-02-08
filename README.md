@@ -1,2 +1,1 @@
-# leetcode
-My solutions to the problems on https://leetcode.com/
+## My solutions to problems on leetcode.com
