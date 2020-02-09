@@ -1,1 +1,1 @@
-## My solutions to problems on leetcode.com
+## My solutions to problems on [leetcode](leetcode.com)
